@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Sreelakshmi
 - 👀 I’m interested in Problem solving
 - 🌱 I’m currently learning Full stack web development
-- 📫 How to reach me : srilakshmiudhayan@gmail.com , www.linkedin.com/in/
-sreelakshmiudhayan
+- 📫 How to reach me : srilakshmiudhayan@gmail.com , www.linkedin.com/in/sreelakshmiudhayan
 
 
 <!---
